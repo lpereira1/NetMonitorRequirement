@@ -1,0 +1,46 @@
+SSL Certificate Monitoring
+Capable of network discovery
+Role Based Access Control
+Virtual Appliance
+Alerting capability (Email/SMS/Teams)
+Real-time Alarm and even logs
+Acknowledable alerts
+Forewarding of alarms to other services
+Intelligent alerting based on group relationship
+SNMPv2
+SNMPv3
+Accetps SNMP Traps
+IPv4
+IPv6
+WMI
+Ping(ICMP ECHO)
+Round trip time
+Packet Loss
+Jitter
+API Available
+Custom reporting
+Alert Aggregation
+Traffic counters
+Bandwidth utilization
+    By Percentage
+    By bps/mbps/gpbs
+Traffic Error counters
+    Discards
+multicast/broadcast traffice volume
+Network Mapping
+Network map NOC dashboard
+CPU Load
+Memory useful
+Disk useful
+Power consumption
+Temperature Sensor
+Deep Traffic monitoring (Netflow)
+  Top talkers
+  Ports used (TCP/UDP)
+Grouping of Assets
+    By location
+    By type
+    By function
+1 minute reporting
+Application level performance monitoring
+    Network Travel time vs server response time
