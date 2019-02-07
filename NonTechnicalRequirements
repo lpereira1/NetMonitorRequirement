@@ -1,6 +1,8 @@
 Continuous monitoring capability
 Configurable in multiple modes to meet requirements
-Real-time monitoring 
+Real-time monitoring of Network Components
+Real-time monitoring of Server Components
+SSL Certificate Monitoring and alerting (expiry)
 Low-Effort deployment
 Minimal Knowledge of networking required 
 Real-time Alerting to via multiple methods
